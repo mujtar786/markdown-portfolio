@@ -1,0 +1,3 @@
+- I love to play **Cricket**
+- Moni loves _Karate_
+- **Musa** loves to watch _Spy Racer_
